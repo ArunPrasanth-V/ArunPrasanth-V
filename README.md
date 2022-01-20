@@ -1,16 +1,15 @@
 <div align="center">  
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500" height="260">
-   <br>
-  <br>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
-</div>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="260"> 
+
+   </div>
 
 <h1 align="center">Hey 👋, I'm Arun Prasanth!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate Java Programmer and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="arunJavaProgrammer" /> </p>
+<!-- <br>
+<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="arunJavaProgrammer" /> </p> -->
 ⚡ Fun fact *It’s not a bug – it’s an undocumented feature.*
 
 <h1 align="center">Tech-Stack</h1>
