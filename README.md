@@ -15,7 +15,7 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 
 <h1 align="center">Tech-Stack</h1>
 
-I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with Django, React Js, Node Js, Express Js, Docker, JavaScript, SaSS, SQL and so on. So these tech stacks make my friends believe in me as a good lead!
+I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with SpringBoot , Servlet ,SQL and so on. So these tech stacks make my friends believe in me as a good lead!
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
