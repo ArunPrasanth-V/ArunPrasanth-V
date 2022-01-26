@@ -40,7 +40,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 </div>
 
-<h1 align="center">Github Stats</h1>
+<h1 align="center">Github Status</h1>
  <div align="center" >
 <img width="43%" src="https://github-readme-stats.vercel.app/api?username=ArunPrasanth-V&theme=tokyonight&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPrasanth-V&layout=compact&theme=tokyonight">
 </div> 
