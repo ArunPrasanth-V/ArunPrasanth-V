@@ -10,7 +10,7 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 <br>
 <!-- <br>
 <img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="arunJavaProgrammer" /> </p> -->
-⚡ Fun fact - * The best code is no code at all. Every newline of code you willingly bring into the world is code that has to debugged, code that has to be read and understood, code that has to suppored! *
+⚡ Fun fact - **The best code is no code at all. Every newline of code you willingly bring into the world is code that has to debugged, code that has to be read and understood, code that has to supported!**
 
 <h1 align="center">Tech-Stack</h1>
 
