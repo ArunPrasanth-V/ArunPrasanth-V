@@ -16,13 +16,18 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 
 I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with SpringBoot , Servlet ,SQL and so on. So these tech stacks make my friends believe in me as a good lead!
 
+
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
- </p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="35"/> 
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="35"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
+</p>
 
 I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
 
@@ -38,6 +43,8 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a  href="https://www.linkedin.com/in/arun-prasanth-java-spring-development-student/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arunchuck111@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
+<a href="https://leetcode.com/arunchuck111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arun Developer" height="30" width="40" /></a>
+
 </div>
 
 <h1 align="center">Github Status</h1>
@@ -46,3 +53,4 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPrasanth-V")"><img src="https://activity-graph.herokuapp.com/graph?username=ArunPrasanth-V&theme=tokyonight"></div>
+
