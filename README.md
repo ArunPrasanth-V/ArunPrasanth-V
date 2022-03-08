@@ -40,7 +40,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/arun-prasanth-java-spring-development-student/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/arunprasanth-developer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arunchuck111@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <a href="https://leetcode.com/arunchuck111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arun Developer" height="30" width="40" /></a>
