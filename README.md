@@ -4,33 +4,10 @@
 
    </div>
 
-<h1 align="center">Hey 👋, I'm Arun Prasanth!</h1>
+<h1 align="center">Hey there👋</h1>
 
-I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate Java Programmer and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
-<br>
-<!-- <br>
-<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="arunJavaProgrammer" /> </p> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=ArunPrasanth-V&label=Profile%20views&color=ce9927&style=flat" alt="arunJavaProgrammer" /> -->
 ⚡ Fun fact - **The best code is no code at all. Every newline of code you willingly bring into the world is code that has to debugged, code that has to be read and understood, code that has to supported!**
-
-<h1 align="center">Tech-Stack</h1>
-
-I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with SpringBoot , Servlet ,SQL and so on. So these tech stacks make my friends believe in me as a good lead!
-
-
-<p align="center"> 
- <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="35"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="35"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
-</p>
-
-I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
-
 
 <hr>
 <h1 align="center">Let's Get Connected</h1>
