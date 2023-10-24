@@ -30,4 +30,9 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPrasanth-V")"><img src="https://activity-graph.herokuapp.com/graph?username=ArunPrasanth-V&theme=tokyonight"></div>
-
+<hr>
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{ArunPrasanth-V}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    </a>
+</p>
