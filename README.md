@@ -21,10 +21,12 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a href="mailto:arunchuck111@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <a href="https://leetcode.com/arunchuck111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arun Developer" height="30" width="40" /></a>
-
-</div>
+<hr>
+</div >
+<div align="center">
 <p>
 <a href="https://vaunt.dev">
-<img src="https://api.vaunt.dev/v1/github/entities/ArunPrasanth-V/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+<img src="https://api.vaunt.dev/v1/github/entities/ArunPrasanth-V/contributions?format=svg&private=true" width="550" title="Includes public and private contributions" />
 </a>
 </p>
+</div>
