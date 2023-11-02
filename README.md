@@ -23,16 +23,8 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a href="https://leetcode.com/arunchuck111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arun Developer" height="30" width="40" /></a>
 
 </div>
-
-<h1 align="center">Github Status</h1>
- <div align="center" >
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=ArunPrasanth-V&theme=tokyonight&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPrasanth-V&layout=compact&theme=tokyonight">
-</div> 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPrasanth-V")"><img src="https://activity-graph.herokuapp.com/graph?username=ArunPrasanth-V&theme=tokyonight"></div>
-<hr>
 <p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{ArunPrasanth-V}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-    </a>
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/ArunPrasanth-V/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+</a>
 </p>
